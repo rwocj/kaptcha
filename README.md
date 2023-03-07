@@ -1,7 +1,7 @@
 # kaptcha - A kaptcha generation engine.
 
 This repo is the copy of http://code.google.com/p/kaptcha/ and published to maven central and support jakarta servlet api.
-It support jdk 11+
+It require jdk 11+
 ```
 <dependency>
   <groupId>top.rwocj</groupId>
